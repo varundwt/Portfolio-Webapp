@@ -7,7 +7,7 @@ export const SKILLS = [
             {skill: "CSS", percentage: "80%"},
             {skill: "JavaScript", percentage: "75%"},
             {skill: "ReactJS", percentage: "80%"},
-            {skill: "Tailwind", percentage: "60%"}
+            {skill: "Redux", percentage: "55%"}
         ],
     },
     {
@@ -15,7 +15,8 @@ export const SKILLS = [
         icon: "./assets/images/design-technologies.png",
         skills: [
             {skill: "Figma", percentage: "90%"},
-            {skill: "Adobe XD", percentage: "85%"}            
+            {skill: "Adobe XD", percentage: "85%"},
+            {skill: "Tailwind", percentage: "60%"}
         ],
     },
     {
@@ -42,21 +43,21 @@ export const SKILLS = [
 
 export const WORK_EXPERIENCE = [
     {
-        title: "Junior Web Developer at Teleperformance",
-        date: "December 2021 - November 2023",
+        title: "Technical Support Executive at Teleperformance",
+        date: "December 2021 - November 2022",
         responsibilities: [
-            "Developed and maintainted client websites, ensuring high-quality standards and timely project delivery.",
-            "Collaborated with UI/UX designers to translate wireframes and mockups into responsibe and interactive web applications.",
-            "Worked closely with the development team to create cross-browser-compatible web pages.",
-            "Gained hands-on experience with version control system, i.e Git, in a collaborative development enviornment."
+            "Worked as a Technical Support Executive for Western Digital Process, handled clients based in USA, Canada & Australia.",
+            "Collaborated with the team to help the users with technical troubleshooting for WD Storage Devices",
+            "Worked closely with the Athens support team to provide assistance to different other regions as well.",
+            "Gained hands-on experience with the Oracle Service Cloud and WD Network Attached Storage devices."
         ]
     },
     {
         title: "Javascript Tutor at UCS",
-        date: "October 2016 - May 2018",
+        date: "December 2022 - December 2023",
         responsibilities: [
             "Instructed students on facets of HTML5, CSS3, JavaScript, and other relevant development technologies.",
-            "Provided full-time instruction of beginner and intermediate Javascript programming structure.",
+            "Provided full-time instruction of beginner and intermediate Javascript(ES6) programming structure.",
             "Taught technology and computer skills, media editing, web page design, proper and safe use of the internet.",
             "Organized constructive tutoring enviorment to promote productivity and learning for young minds."           
         ]
