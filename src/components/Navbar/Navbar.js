@@ -30,7 +30,7 @@ const Navbar = () => {
                         <a className="menu-item" href='https://wa.me/919627385102' target='_blank'>Contact Me</a>
                     </li>
                     
-                    <a href="https://drive.google.com/file/d/12CpmiFAC6NKJaMl-Mdd4PpB-03EJYV3L/view?usp=drive_link" target='_blank'><button className="contact-btn" onClick={()=>{}}>
+                    <a href="https://drive.google.com/file/d/1xwrFyId1PuQgN58qWmcDEx4osCUMCgmV/view?usp=sharing" target='_blank'><button className="contact-btn" onClick={()=>{}}>
                         Download Resume
                     </button>
                     </a>
