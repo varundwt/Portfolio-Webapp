@@ -43,7 +43,7 @@ export const SKILLS = [
 
 export const WORK_EXPERIENCE = [
     {
-        title: "Technical Support Executive at Teleperformance",
+        title: "Technical Support Executive at WD",
         date: "December 2021 - November 2022",
         responsibilities: [
             "Worked as a Technical Support Executive for Western Digital Process, handled clients based in USA, Canada & Australia.",
@@ -54,12 +54,12 @@ export const WORK_EXPERIENCE = [
     },
     {
         title: "Javascript Tutor at UCS",
-        date: "December 2022 - December 2023",
+        date: "December 2022 - March 2024",
         responsibilities: [
             "Instructed students on facets of HTML5, CSS3, JavaScript, and other relevant development technologies.",
             "Provided full-time instruction of beginner and intermediate Javascript(ES6) programming structure.",
             "Taught technology and computer skills, media editing, web page design, proper and safe use of the internet.",
-            "Organized constructive tutoring enviorment to promote productivity and learning for young minds."           
+            "Organized constructive tutoring environment to promote productivity and learning for young minds."           
         ]
     }
 ];
