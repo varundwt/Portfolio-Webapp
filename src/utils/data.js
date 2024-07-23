@@ -43,23 +43,25 @@ export const SKILLS = [
 
 export const WORK_EXPERIENCE = [
     {
-        title: "Technical Support Executive at WD",
-        date: "December 2021 - November 2022",
+        title: "Self Employed Tutor",
+        date: "August 2021 - Present",
         responsibilities: [
-            "Worked as a Technical Support Executive for Western Digital Process, handled clients based in USA, Canada & Australia.",
-            "Collaborated with the team to help the users with technical troubleshooting for WD Storage Devices",
-            "Worked closely with the Athens support team to provide assistance to different other regions as well.",
-            "Gained hands-on experience with the Oracle Service Cloud and WD Network Attached Storage devices."
+            "Instructed students on facets of HTML5, CSS3, JavaScript(ES6), and other relevant development technologies.",
+            "Provided full-time instruction of beginner and intermediate ReactJS development structure & corresponding libraries.",
+            "Taught technology and computer skills, media editing, web page design, proper and safe use of the internet.",
+            "Organized constructive tutoring environment to promote productivity and learning for young minds.",
+            "Guided students on design libraries & frameworks i.e. Tailwind CSS & Material UI"
         ]
     },
     {
-        title: "Javascript Tutor at UCS",
-        date: "December 2022 - March 2024",
+        title: "Self Employed Tutor",
+        date: "August 2021 - Present",
         responsibilities: [
-            "Instructed students on facets of HTML5, CSS3, JavaScript, and other relevant development technologies.",
-            "Provided full-time instruction of beginner and intermediate Javascript(ES6) programming structure.",
+            "Instructed students on facets of HTML5, CSS3, JavaScript(ES6), and other relevant development technologies.",
+            "Provided full-time instruction of beginner and intermediate ReactJS development structure & corresponding libraries.",
             "Taught technology and computer skills, media editing, web page design, proper and safe use of the internet.",
-            "Organized constructive tutoring environment to promote productivity and learning for young minds."           
+            "Organized constructive tutoring environment to promote productivity and learning for young minds.",
+            "Guided students on design libraries & frameworks i.e. Tailwind CSS & Material UI"           
         ]
     }
 ];
